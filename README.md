@@ -6,6 +6,6 @@
 
 | HPE Demo | Vertical | Use Case | HPC | PCAI | Status |
 |----------|----------|----------|-----|------|--------|
-| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | Medical Imaging Segmentation | :x: | :white_check_mark: | not validated |
+| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | Medical Imaging Segmentation | :white_check_mark: | :x: | not validated |
 
 </div>
