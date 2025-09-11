@@ -4,10 +4,8 @@
 
 <div align="center">
 
-| HPE Demo | Source | Vertical | PCAI | Status
-|------|----------|--------|--------|--------|
-| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | [VISTA-3D] (https://build.nvidia.com/nvidia/vista-3d) | [Dave Wright](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare |   | needs validation |
-|      |          |        |        |        |        |
-|      |          |        |        |        |        |
+| HPE Demo | Vertical | Use Case | PCAI | Status |
+|----------|----------|----------|------|------- |
+| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | :x: | not validated |
 
 </div>
