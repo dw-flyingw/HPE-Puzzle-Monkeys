@@ -6,7 +6,7 @@
 
 | Demo | Vertical | Source | Status |
 |------|----------|--------|--------|
-|      |          |        |        |
+| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare |        |        |
 |      |          |        |        |
 |      |          |        |        |
 
