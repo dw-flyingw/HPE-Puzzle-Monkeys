@@ -6,7 +6,7 @@
 
 | Demo | Vertical | NIM | Status |
 |------|----------|--------|--------|
-| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare |        |        |
+| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | [VISTA-3D is a specialized interactive foundation model for segmenting and anotating human anatomies.](https://build.nvidia.com/nvidia/vista-3d)       |        |
 |      |          |        |        |
 |      |          |        |        |
 
