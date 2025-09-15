@@ -4,10 +4,10 @@
 
 <div align="center">
 
-| HPE Demo | Preso | Vertical | Use Case | ROI | HPC | PCAI | GPU | Status |
-|----------|-------|----------|----------|-----|-----|------|-----|--------|
-| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | [readme](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | Medical Imaging Segmentation | | :white_check_mark: | :x: | L40S | not validated |
-| [HPE Healthcare AI](https://github.com/DaveMcMa/healthcare-ai) | [(pptx)](https://raw.githubusercontent.com/DaveMcMa/healthcare-ai/main/healthcare_pres.pptx) | Healthcare | Transcribe, Translate, Treat and Track | | :x: | :white_check_mark: | H200 NVL | not validated |
+| HPE Demo | Preso | Vertical | Use Case | HPC | PCAI | GPU | Status |
+|----------|-------|----------|----------|-----|------|-----|--------|
+| [HPE-Nvidia-Vista-3D](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | [readme](https://github.com/dw-flyingw/HPE-Nvidia-Vista-3D) | Healthcare | Medical Imaging Segmentation | :white_check_mark: | :x: | L40S | not validated |
+| [HPE Healthcare AI](https://github.com/DaveMcMa/healthcare-ai) | [(pptx)](https://raw.githubusercontent.com/DaveMcMa/healthcare-ai/main/healthcare_pres.pptx) | Healthcare | Transcribe, Translate, Treat and Track | :x: | :white_check_mark: | H200 NVL | not validated |
 
 
 </div>
